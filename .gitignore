@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# TypeScript build output
+/dist/
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Ignore any personal or sensitive files
+config.json
